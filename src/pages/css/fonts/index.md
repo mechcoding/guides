@@ -5,8 +5,6 @@ title: Fonts
 
 This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/css/fonts/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
-
 The font CSS property is either a shorthand property for setting font-style, font-variant, font-weight, font-size, line-height, and font-family; or a way to set the element's font to a system font, using specific keywords.
 
 /* size | family */
